@@ -15,4 +15,10 @@ We also used the data to extract employee information for employees who are elig
 - In the second part of this analysis, we extracted and compiled employee information for the current employees eligible for mentorship program based on the criteria that there birth year is 1965
 >![image](https://user-images.githubusercontent.com/86074187/128943519-d51d1d1e-3f38-4d00-8df4-ca6705ae972c.png)
 
+## SUMMARY
+As the "silver tsunami" begins to make an impact, a maximum of 90,398 can potentially retire, creating an enormous amount of positions that would need filling. ACoording to the mentorship eligibility program, only 1549 people are eligible to become mentors, which may not be enough to train the new employees. Also, because these positions will need filling quickly, it is going to be tough for the company to best learn about the qualifications and skills of the applicants. And since mostly senior positions are going to become vacant, the new employees will not have enough experience as the previous employees in their position which may impact the overall performance of the company.
+
+
+
+
 
